@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Deeokojie
-- 👀 I’m interested in Api programming 
+- 👋 Hi, I’m @Dee okojie
+- 👀 I’m interested in Api programming & machine learning 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me okojiedee@gmail.com
