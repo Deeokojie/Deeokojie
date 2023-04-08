@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dee okojie
-- 👀 I’m interested in Api programming & machine learning 
+- 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning Maths and economics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me okojiedee@gmail.com
